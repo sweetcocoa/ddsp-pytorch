@@ -57,7 +57,7 @@ python test.py\
 ```
 
 ## Download pretrained weight file ###
-> []()
+> [download](https://github.com/sweetcocoa/ddsp-pytorch/raw/models/weight.zip)
 
 ## Contact ##
 
